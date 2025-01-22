@@ -1,4 +1,4 @@
-public class typecasting {
+public class TypeCasting {
     public static void main(String[] args) {
         int intVar = 10;
         double doubleVar = intVar; // Implicit casting

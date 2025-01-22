@@ -3,7 +3,8 @@ public class AccessModifiers {
     private String privateVar = "Private Variable";
     protected String protectedVar = "Protected Variable";
     String defaultVar = "Default Variable"; // package-private
-     void display() {
+
+    void display() {
         System.out.println(publicVar);
         System.out.println(privateVar);
         System.out.println(protectedVar);
